@@ -1,0 +1,43 @@
+total 76
+drwxr-xr-x 18 elvan.rizky StafCS 4096 Sep  6 01:21 .
+drwx--x--x  5 elvan.rizky StafCS 4096 Sep  6 01:18 ..
+drwxr-xr-x  8 elvan.rizky StafCS 4096 Sep  6 01:20 .git
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:00 key
+-rw-r--r--  1 elvan.rizky StafCS    0 Sep  6 01:22 lab01.txt
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:00 log
+-rw-r--r--  1 elvan.rizky StafCS    7 Sep  6 00:53 README.md
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:06 sandbox
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:19 week00
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week01
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week02
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week03
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week04
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week05
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week06
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week07
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week08
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week09
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week10
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:00 xtra
+total 80
+drwxr-xr-x 18 elvan.rizky StafCS 4096 Sep  6 01:21 .
+drwx--x--x  5 elvan.rizky StafCS 4096 Sep  6 01:18 ..
+drwxr-xr-x  8 elvan.rizky StafCS 4096 Sep  6 01:20 .git
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:00 key
+-rw-r--r--  1 elvan.rizky StafCS 1157 Sep  6 01:22 lab01.txt
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:00 log
+-rw-r--r--  1 elvan.rizky StafCS    7 Sep  6 00:53 README.md
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:06 sandbox
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:19 week00
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week01
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week02
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week03
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week04
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:58 week05
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week06
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week07
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week08
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week09
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 00:59 week10
+drwxr-xr-x  2 elvan.rizky StafCS 4096 Sep  6 01:00 xtra
+/home/fasilkom/mahasiswa/e/elvan.rizky/OS172/week01
