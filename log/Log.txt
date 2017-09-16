@@ -1,0 +1,17 @@
+w00-170829-16-LR-About: Introduction to Operating System,From: Lecturer
+w00-170829-20-LR-About: Introduction to Operating System
+w00-170902-14-PS-About: Github Learning
+w00-170902-14-DS-About: Discuss github learning
+
+w01-170905-23-PS-About: How to clone git repository
+w01-170905-23-PS-About: how to make directory
+w01-170905-23-PS-About: How to make file
+w01-170905-23-PS-About: How to move and remove file
+w01-170905-16-LR-About: Scripting
+w01-170907-16-LR-About: Scripting
+
+w02-170912-16-LR-About: Encryption
+w02-170914-16-LR-About: Encryption
+w02-170915-10-PS-About: Privacy matters
+w02-170915-10-PS-About: Encryption
+w02-170915-10-PS-About: Digital Signature using GnuPG
