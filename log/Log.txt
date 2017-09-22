@@ -15,3 +15,7 @@ w02-170914-16-LR-About: Encryption
 w02-170915-10-PS-About: Privacy matters
 w02-170915-10-PS-About: Encryption
 w02-170915-10-PS-About: Digital Signature using GnuPG
+
+w03-170921-22-PS-About: Booting
+w03-170922-13-PS-About: Start up script
+w03-170922-13-PS-About: Make tarball
