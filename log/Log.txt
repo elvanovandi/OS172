@@ -19,3 +19,7 @@ w02-170915-10-PS-About: Digital Signature using GnuPG
 w03-170921-22-PS-About: Booting
 w03-170922-13-PS-About: Start up script
 w03-170922-13-PS-About: Make tarball
+
+w04-170929-17-PS-About: Pointer
+w04-170929-17-PS-About: I/O
+w04-170929-17-PS-About: C program
