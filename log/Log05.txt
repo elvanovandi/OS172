@@ -1,0 +1,5 @@
+w06-171014-13-PS-About: Lab session
+w06-171012-16-LR-About: Class 
+w06-171010-16-LR-About: Class
+w06-171010-21-PS-About: Lab Session
+
