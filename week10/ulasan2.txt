@@ -1,8 +1,7 @@
 Github Account: Elvanovandi
 URL Ulasan: http://novandi-elvan.blogspot.co.id/2017/12/ulasan-2.html
-URL Video: https://www.youtube.com/watch?v=9riG9Z1ae54
-Durasi: 4:51
-Pemetaan: Week01
+URL Video: https://www.youtube.com/watch?v=H6QDdPMzdG8&feature=youtu.be
+Durasi: 9:04
+Pemetaan: Week07
 Revisi Pertama: 02-12-2017
-
-
+Revisi Terakhir: 9-12-2017
